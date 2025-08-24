@@ -1,7 +1,7 @@
 # Laravel User Management — Feature Pack
 
 This zip contains a **complete Users CRUD** (Create/Read/Update/Delete) for a Laravel 10/11 project,
-with **basic routing** and **Blade views** plus **minimal styling** (no build step).
+with **basic routing** and **Blade views** plus ** nice minimal styling**.
 
 ## 📸 Screenshot
 ![App Screenshot](docs/screenshot.png)
