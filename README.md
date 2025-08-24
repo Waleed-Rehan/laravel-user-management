@@ -3,6 +3,9 @@
 This zip contains a **complete Users CRUD** (Create/Read/Update/Delete) for a Laravel 10/11 project,
 with **basic routing** and **Blade views** plus **minimal styling** (no build step).
 
+## 📸 Screenshot
+![App Screenshot](docs/screenshot.png)
+
 ## What you get
 - `Route::resource('users', UserController::class)` wiring with `/` pointing to Users list.
 - `UserController` with validation, pagination, create/update (with optional password change), and delete.
